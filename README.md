@@ -34,15 +34,15 @@ The installation of a Cumulative Update can be performed using several methods:
 Monitoring and Post-Update Tasks
 After applying a Cumulative Update, monitoring the system is crucial:
 
-- Check for Errors**: Review SQL Server logs and Windows Event Viewer to identify any issues post-update.
-- Performance Evaluation**: Monitor the database performance closely to ensure that expected improvements are realized.
-- Regular Maintenance**: Plan and execute regular maintenance tasks such as index rebuilding and statistics updates to keep the server running optimally.
+- Check for Errors: Review SQL Server logs and Windows Event Viewer to identify any issues post-update.
+- Performance Evaluation: Monitor the database performance closely to ensure that expected improvements are realized.
+- Regular Maintenance: Plan and execute regular maintenance tasks such as index rebuilding and statistics updates to keep the server running optimally.
 
 Conclusion
 Cumulative Updates for SQL Server 2016 and higher are vital for ensuring your database environment remains secure, stable, and efficient. By staying informed about the latest updates and adhering to best practices for their application, administrators can effectively manage their SQL Server instances.
 
 References
-- Microsoft Documentation: [SQL Server Cumulative Updates](https://docs.microsoft.com/en-us/sql/sql-server/)
-- SQL Server Release Notes: [Release Notes for SQL Server](https://docs.microsoft.com/en-us/sql/sql-server/release-notes)
+- Microsoft Documentation: [SQL Server Cumulative Updates](https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver17)
+- SQL Server Release Notes: [Release Notes for SQL Server](https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2022/build-versions)
 
 For any further inquiries or specific scenarios regarding Cumulative Updates, feel free to reach out.
